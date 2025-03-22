@@ -1,0 +1,14 @@
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\bin\Debug\net8.0\Segunda aula 2.exe
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\bin\Debug\net8.0\Segunda aula 2.deps.json
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\bin\Debug\net8.0\Segunda aula 2.runtimeconfig.json
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\bin\Debug\net8.0\Segunda aula 2.dll
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\bin\Debug\net8.0\Segunda aula 2.pdb
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\obj\Debug\net8.0\Segunda aula 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\obj\Debug\net8.0\Segunda aula 2.AssemblyInfoInputs.cache
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\obj\Debug\net8.0\Segunda aula 2.AssemblyInfo.cs
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\obj\Debug\net8.0\Segunda aula 2.csproj.CoreCompileInputs.cache
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\obj\Debug\net8.0\Segunda aula 2.dll
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\obj\Debug\net8.0\refint\Segunda aula 2.dll
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\obj\Debug\net8.0\Segunda aula 2.pdb
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\obj\Debug\net8.0\Segunda aula 2.genruntimeconfig.cache
+C:\Users\FIC\source\repos\Segunda aula 2\Segunda aula 2\obj\Debug\net8.0\ref\Segunda aula 2.dll
